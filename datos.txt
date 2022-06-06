@@ -1,0 +1,1 @@
+{"id": "434", "nombre":"hola", "codigo":"4376", "precio":"1234","stock":"3"}
